@@ -1,0 +1,18 @@
+Here are some of the instructions that you need to follow while running 'qr_code_3(improvised).py' file from the 'Code' folder:
+
+- Step-1: Open 'qr_code_3(improvised).py' file from the 'Code' folder in your IDE or text editor
+- Step-2: Run the file
+- Step-3: Type the required values in the output/terminal section of your IDE or text editor, in order to get your required qr code
+- Step-4: After typing the required values in the terminal screen, you will get your desired qr code in your desitnation path
+
+Some points to be noted:-
+
+* Make sure you set your destination path in the terminal screen, as it will help the program to save your required qr code
+Like from the following example:
+Enter the destination path to save the QR code image: "F:\Coding"
+
+* While naming the file, make sure to name it with a '.' at the end, then type your required image format such as .png, .jpg, .jpeg etc
+You can take a look from the following example:
+                                             i. Noname.png
+                                             ii. qrcode.jpg
+                                             iii. qrcode2.jpeg
